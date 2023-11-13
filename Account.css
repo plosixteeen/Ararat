@@ -1,0 +1,181 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(126, 94, 64);
+}
+.main{
+    
+    width: 2000px;
+    height: 800px;
+    margin: 0 auto;
+   
+}
+.rst:hover{
+    color: rgb(31, 25, 121);
+    transition:all 3s ease; 
+}
+
+
+    .rst{
+        color: white;
+    }
+ .shapka{
+    
+        border-radius: 10px ;
+        width: 2000px;
+        height:75px;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        font-family: Berlin Sans FB;
+        background-image: ('https://pushinka.top/uploads/posts/2023-03/1678366236_pushinka-top-p-gruzinskie-uzori-instagram-52.jpg');
+   background-color: black;
+   margin-top: -10px;
+ 
+    }
+    .knopka{
+        text-decoration: none;
+        font-family: Berlin Sans FB;
+        color: white;
+        font-size: 20px;
+
+        
+    }
+    .knopka:hover{
+            color: rgb(136, 19, 19);
+            transition:all 1s ease; 
+        }
+        p{
+            font-size: 20px;
+            font-family: Berlin Sans FB;
+        
+        }
+
+
+.reg{
+    border: 7px solid black;
+    border-radius: 50px;
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    background-color: #6b4c32;
+    box-shadow: 5px 5px rgb(82, 63, 50), -5px -5px rgb(150, 126, 104)
+
+}
+.regg{
+    position: fixed;
+    margin-top: -400px;
+
+    
+}
+
+.check{
+    width: 300px;
+    display: flex;
+    
+    align-items: center;
+}
+button{
+    transition: 1s;
+    text-align: center; 
+    font-family: Berlin Sans FB;
+    font-size: 15px;
+    
+    
+      top:50%;
+      background: linear-gradient( to right, rgb(99, 69, 50),rgb(63, 62, 60));
+      color: rgb(255, 255, 255);
+      
+      width: 200px;
+      height: 35px;
+      border-radius: 10px;
+      box-shadow: 1px 1px rgb(0, 0, 0);
+}
+button:hover{
+    transform: scale(1.1);
+
+    }
+   
+form{
+    margin-left: 100px;
+}
+    
+    
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .nogi{
+               
+            width: 2000px;
+            height: 250px;
+            background-image: url(https://cdn.discordapp.com/attachments/977594703119810620/1168139170930249798/design.jpg?ex=6550ad61&is=653e3861&hm=bea0ab03a7ba946794f0debe9cc4add948c1e2e60e9baa3df55048c6f2d7de81&);
+            background-size: cover;
+            border-radius: 10;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            border-radius: 50px;
+            margin-top: 50px;
+            
+        }
+        .contact{
+                            
+            width: 400px;
+            height: 500px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+             
+         }
+         .number{
+             font-family: Berlin Sans FB;
+             font-size: 20px;
+             color: white;
+
+         }
+
+
+
+
+
+
+
+
+
+
+                        .icons{
+                            width: 32px;
+                            height: 32px;
+                        }

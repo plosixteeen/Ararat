@@ -1,0 +1,199 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(126, 94, 64);
+}
+.main{
+    
+    width: 2000px;
+    height: 800px;
+    margin: 0 auto;
+}
+.rst:hover{
+    color: rgb(31, 25, 121);
+    transition:all 3s ease; 
+}
+
+
+    .rst{
+        color: white;
+    }
+ .shapka{
+    position: fixed;
+        border-radius: 10px ;
+        width: 2000px;
+        height:75px;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        font-family: Berlin Sans FB;
+        background-image: ('https://pushinka.top/uploads/posts/2023-03/1678366236_pushinka-top-p-gruzinskie-uzori-instagram-52.jpg');
+   background-color: black;
+   margin-top: -100px;
+    }
+    .knopka{
+        text-decoration: none;
+        font-family: Berlin Sans FB;
+        color: white;
+        font-size: 20px;
+
+        
+    }
+    .knopka:hover{
+            color: rgb(136, 19, 19);
+            transition:all 1s ease; 
+        }
+
+
+
+        .forma{
+                        border: 5px solid black;
+                        border-radius: 50px;
+                        width: 400px;
+                        height: 600px;
+                        display: flex;
+                        background-color: #ac886b; 
+                        box-shadow: 3px 3px rgb(139, 97, 48), -3px -3px rgb(204, 140, 21)
+                        
+                    }
+                    .kart{
+                        border-radius: 30px;
+                        width: 300px;
+                        height: 200px;
+                        margin-top: 50px;
+                        display: flex;
+                        justify-content: center;
+                    
+                    }
+                
+                        .button {
+                            transition: 1s;
+                          text-align: center; 
+                          font-family: Berlin Sans FB;
+                          font-size: 15px;
+                          
+                          
+                            top:50%;
+                            background: linear-gradient( to right, rgb(78, 26, 26),rgb(24, 24, 65));
+                            color: rgb(255, 255, 255);
+                            
+                            width: 150px;
+                          height: 35px;
+                          border-radius: 30px;
+
+                    }
+                    .button:hover{
+                        transform: scale(1.2);
+
+                        }
+
+                    .cena{
+                        transition: 1s;
+                        text-align: center;
+                        display: flex;
+                        align-items: center; 
+                        justify-content: center;
+                        font-family: Berlin Sans FB;
+                        font-size: 15px;
+                        
+                          top:50%;
+                          background: linear-gradient( to left, rgb(114, 38, 25), rgb(61, 16, 16));
+                          color: rgb(255, 255, 255);
+                          
+                          width: 150px;
+                          height: 35px;
+                          border-radius: 30px;
+                         
+
+                    }
+                    .cena:hover{
+                        transform: scale(1.1);
+
+                        }
+
+                    
+
+                    .vseeto{
+                    
+                        
+                        width: 100%;
+                        height: 250px;
+                        text-align: center;
+                        margin-top: 280px;
+                        margin-left: -350px;
+                    }
+                    .kartinka{
+                        border-radius: 10px;
+                        width: 300px;
+                        height: 200px;
+                         margin-left: 50px;
+                        margin-top: 10px;
+                    }
+                    .nazvanie{
+                        text-align: center;
+                        font-family: Berlin Sans FB;
+                        font-size: 20px;
+                        
+                        
+                        
+                        
+                    
+
+                    }
+                    .kup{
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-around;
+                        margin-bottom: 10px;
+                        
+                    
+                    }
+
+                    
+
+                        .linia-1{
+                            margin-top: 100px;
+                            
+                            width: 2000px;
+                            height:600px;
+                            display: flex;
+                            justify-content: space-around;
+                            align-items: center;
+                        }
+
+
+
+
+
+                        .nogi{
+               
+                            width: 2000px;
+                                height: 250px;
+                            background-image: url(https://cdn.discordapp.com/attachments/977594703119810620/1168139170930249798/design.jpg?ex=6550ad61&is=653e3861&hm=bea0ab03a7ba946794f0debe9cc4add948c1e2e60e9baa3df55048c6f2d7de81&);
+                                background-size: cover;
+                            border-radius: 10;
+                            display: flex;
+                            justify-content: space-around;
+                            align-items: center;
+                            border-radius: 50px;
+                            margin-top: 50px;
+                            
+                        }
+                        .contact{
+                            
+                            width: 400px;
+                            height: 500px;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            
+                             
+                         }
+                         .number{
+                             font-family: Berlin Sans FB;
+                             font-size: 20px;
+                             color: white;
+             
+                         }
